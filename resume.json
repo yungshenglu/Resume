@@ -38,8 +38,12 @@
       "position": "Teaching Assistant",
       "website": "https://people.cs.nctu.edu.tw/~katelin/courses/cn/",
       "startDate": "2018-09-10",
-      "summary": "",
-      "highlights": []
+      "summary": "Designed the lab program for students and marked their works",
+      "highlights": [
+        "Packet Manipulation via Scapy",
+        "Network Topology with Mininet",
+        "SDN with P4"
+      ]
     },
     {
       "company": "EstiNet Technologies Inc.",
@@ -165,7 +169,7 @@
       "keywords": [
         "HTML",
         "CSS",
-        "JavaScript/ES6",
+        "JavaScript",
         "ReactJS",
         "Pug",
         "Sass/SCSS"
