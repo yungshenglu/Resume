@@ -53,7 +53,7 @@
       "endDate": "2016-08-31",
       "summary": "",
       "highlights": [
-        "Developed a real-time monitor in OpenFlow-based Network",
+        "Developed a real-time monitor in OpenFlow-based Network using Ryu",
         "Participated the contest of \"Mobile Heros 2016 - SDN/NFV Group\" hosted by Industrial Development Bureau, MOEA"
       ]
     }
