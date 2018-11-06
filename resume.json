@@ -1,0 +1,244 @@
+{
+  "basics": {
+    "name": "Yung-Sheng Lu",
+    "label": "Graduated Student",
+    "picture": "",
+    "email": "yungshenglu1994@gmail.com",
+    "phone": "+886-3-571-2121#54748",
+    "website": "https://yungshenglu.github.io",
+    "summary": "I am a software developer aiming to become a true Full-stack developer. While my recently research focuses on SDN/P4 with NN, my non work interests range widely. By spending free time learning other computer science related subjects such as machine learning, algorithms, and some latest techniques, my interest into computer just keep deepening. Building small tools which makes my life easier is also something I love to do on weekend. I am a Taiwanese citizen and actively looking for developer positions in Tawian, Singapore and North America.",
+    "location": {
+      "address": "1001 University Road",
+      "postalCode": "30010",
+      "city": "Hsinchu",
+      "countryCode": "TW",
+      "region": ""
+    },
+    "profiles": [
+      {
+        "network": "Twitter",
+        "username": "@yungshenglu",
+        "url": "https://twitter.com/yungshenglu"
+      },
+      {
+        "network": "GitHub",
+        "username": "@yungshenglu",
+        "url": "https://github.com/yungshenglu"
+      },
+      {
+        "network": "Sourcerer",
+        "username": "@yungshenglu",
+        "url": "https://sourcerer.io/yungshenglu"
+      }
+    ]
+  },
+  "work": [
+    {
+      "company": "National Chiao Tung University",
+      "position": "Teaching Assistant",
+      "website": "https://people.cs.nctu.edu.tw/~katelin/courses/cn/",
+      "startDate": "2018-09-10",
+      "endDate": "",
+      "summary": "",
+      "highlights": []
+    },
+    {
+      "company": "EstiNet Technologies Inc.",
+      "position": "Summer Internship",
+      "website": "http://www.estinet.com",
+      "startDate": "2016-07-01",
+      "endDate": "2016-08-31",
+      "summary": "Developed the project of \"Real-time Monitoring with Data Visualization in OpenFlow-based Network\" and participated the contest of \"Mobile Heros 2016\" hosted by Industrial Development Bureau, MOEA",
+      "highlights": []
+    }
+  ],
+  "volunteer": [
+    {
+      "organization": "DigitalOcean Hsinchu",
+      "position": "Volunteer",
+      "website": "https://www.facebook.com/DigitalOceanHsinchu",
+      "startDate": "2018-04-10",
+      "endDate": "",
+      "summary": "Organized the regular meetups of technical community",
+      "highlights": [
+        "First time joined technical community!"
+      ]
+    },
+    {
+      "organization": "Hacktoberfest 2018 Events (Taiwan)",
+      "position": "Speaker",
+      "website": "https://do.co/hacktoberfest18events",
+      "startDate": "2018-10-06",
+      "endDate": "2018-10-13",
+      "summary": "Gave a talk on sharing some advanced usage of Git, my side project, and also my experience of becoming an open source contributor on GitHub",
+      "highlights": [
+        "Hacktoberfest in DigitalOcean Hsinchu - A Celebration of Open Source! - Hsinshu, Taiwan (OCT. 06) ",
+        "Hacktoberfest @ NCKU - Tainan, Taiwan (OCT. 13)"
+      ]
+    },
+    {
+      "organization": "COSCUP 2018",
+      "position": "Staff",
+      "website": "https://2018.coscup.org/",
+      "startDate": "2018-08-11",
+      "endDate": "2018-08-12",
+      "summary": "Assisted in preparing the field of community sessions \"SDN x Cloud Native\"",
+      "highlights": [
+        "First time joined COSCUP!"
+      ]
+    },
+    {
+      "organization": "Modern Web 2018",
+      "position": "Speaker",
+      "website": "https://modernweb.tw/2018/index.html",
+      "startDate": "2018-07-18",
+      "endDate": "2018-07-19",
+      "summary": "Gave a talk on sharing my experience about developing my side project \"papoGen\"",
+      "highlights": [
+        "First time became a conference speaker!",
+        "Slides - https://slides.com/yungshenglu/modernweb2018"
+      ]
+    },
+    {
+      "organization": "DigitalOcean Hsinchu",
+      "position": "Speaker",
+      "website": "https://www.facebook.com/DigitalOceanHsinchu",
+      "startDate": "2018-07-10",
+      "endDate": "2018-07-10",
+      "summary": "Gave a talk on sharing my experience about developing my side project \"papoGen\"",
+      "highlights": [
+        "Live demo without failing!",
+        "Slides - https://slides.com/yungshenglu/20180702domeetup"
+      ]
+    }
+  ],
+  "education": [
+    {
+      "institution": "National Chiao Tung University",
+      "area": "Network Engineering",
+      "studyType": "Master",
+      "startDate": "2017-08-01",
+      "endDate": "",
+      "gpa": "",
+      "courses": []
+    },
+    {
+      "institution": "National Cheng Kung University",
+      "area": "Computer Science and Information Engineering",
+      "studyType": "Bachelor",
+      "startDate": "2014-09",
+      "endDate": "2017-06",
+      "gpa": "",
+      "courses": []
+    }
+  ],
+  "awards": [
+    {
+      "title": "Honorable Poster Award",
+      "date": "2017-06",
+      "awarder": "NCKU CSIE Undergraduate Project Exhibition 2017",
+      "summary": ""
+    },
+    {
+      "title": "Excellent Performance Group (績優團隊)",
+      "date": "2016-04-13",
+      "awarder": "46th ITSA Online Programming Contest",
+      "summary": ""
+    },
+    {
+      "title": "Excellent Performance Group (績優團隊)",
+      "date": "2015-04-08",
+      "awarder": "38th ITSA Online Programming Contest",
+      "summary": ""
+    }
+  ],
+  "publications": [
+    {
+      "name": "以 OpenFlow 為基礎之視覺化網路即時路況監測",
+      "publisher": "蔡昀展, 陸勇盛, 蔡孟勳",
+      "releaseDate": "2016-08",
+      "website": "http://mc2016.cs.nctu.edu.tw/",
+      "summary": "Mobile Computing Workshop 2016 (第二十一屆行動計算研討會) - Nantou, Taiwan"
+    }
+  ],
+  "skills": [
+    {
+      "name": "Frontend Development",
+      "level": "Advanced",
+      "keywords": [
+        "HTML",
+        "CSS",
+        "JavaScript/ES6",
+        "ReactJS",
+        "Pug",
+        "Sass/SCSS"
+      ]
+    },
+    {
+      "name": "Backend Development",
+      "level": "Advanced",
+      "keywords": [
+        "NodeJS",
+        "Python",
+        "C/C++"
+      ]
+    },
+    {
+      "name": "Networks Development",
+      "level": "Intermediate",
+      "keywords": [
+        "SDN/P4",
+        "SDN/Ryu",
+        "Mininet"
+      ]
+    },
+    {
+      "name": "Deployment",
+      "level": "Intermediate",
+      "keywords": [
+        "Docker",
+        "Kubernetes"
+      ]
+    },
+    {
+      "name": "General Knowledge",
+      "level": "Advanced",
+      "keywords": [
+        "Linux",
+        "Git"
+      ]
+    }
+  ],
+  "languages": [
+    {
+      "language": "Mandarin",
+      "fluency": "Native speaker"
+    },
+    {
+      "language": "English",
+      "fluency": "Intermediate"
+    },
+    {
+      "language": "Japanese",
+      "fluency": "Beginner"
+    }
+  ],
+  "interests": [
+    {
+      "name": "Programming",
+      "keywords": [
+        "Algorithms",
+        "Tools",
+        "Side Project"
+      ]
+    },
+    {
+      "name": "Games",
+      "keywords": [
+        "Assassin's Creed",
+        "Age of Empires"
+      ]
+    }
+  ],
+  "references": []
+}
