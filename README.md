@@ -1,6 +1,8 @@
 # Personal Resume
 
-This repository is my personal resume created by [JSON Resume](https://jsonresume.org/getting-started/).
+This repository is my personal resume created by [JSON Resume](https://jsonresume.org/getting-started/). If you have any suggestions or questions about this blog, feel free to contact me.
+
+* Please visit: https://yungshenglu.github.io/resume/ to view the site.
 
 ---
 ## Commands
@@ -16,6 +18,26 @@ This repository is my personal resume created by [JSON Resume](https://jsonresum
 * Export the resume to HTML file with Kendall's theme
     ```bash
     $ resume export --theme kendall index.html
+    ```
+
+---
+## SEO and Personal Icon
+
+* Add SEO into `index.html`
+    ```html
+    <!-- SEO -->
+    <meta charset="utf-8">
+    <meta http-equiv="content-type" content="text/html">
+    <meta name="author" content="Yung-Sheng Lu">
+    <meta name="copyright" content="Yung-Sheng Lu">
+    <meta name="google-site-verification" content="jBJeYf8DAaX6r5eAWLS4_Q5jiRIBS1phgG-C06lSEcA" />
+    <meta name="keywords" content="David Lu,davidlu,yungshenglu">
+    ```
+* Add personal icon into `index.html`
+    ```html
+    <!-- Icons -->
+    <link rel="shortcut icon" href="./public/favicon.ico" type="image/x-icon">
+    <link rel="icon" href="./public/favicon.ico" type="image/x-icon">
     ```
 
 ---

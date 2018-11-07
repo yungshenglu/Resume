@@ -38,11 +38,9 @@
       "position": "Teaching Assistant",
       "website": "https://people.cs.nctu.edu.tw/~katelin/courses/cn/",
       "startDate": "2018-09-10",
-      "summary": "Designed the lab program for students and marked their works",
+      "summary": "",
       "highlights": [
-        "Packet Manipulation via Scapy",
-        "Network Topology with Mininet",
-        "SDN with P4"
+        "Designed the lab program for students and marked their works"
       ]
     },
     {
@@ -105,7 +103,7 @@
       ]
     },
     {
-      "organization": "DigitalOcean Hsinchu",
+      "organization": "DigitalOcean Hsinchu Meetup",
       "position": "Speaker",
       "website": "https://www.facebook.com/DigitalOceanHsinchu",
       "startDate": "2018-07-10",
