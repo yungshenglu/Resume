@@ -16,6 +16,11 @@
     },
     "profiles": [
       {
+        "network": "LinkedIn",
+        "username": "@yungshenglu",
+        "url": "https://www.linkedin.com/in/yungshenglu/"
+      },
+      {
         "network": "Twitter",
         "username": "@yungshenglu",
         "url": "https://twitter.com/yungshenglu"
@@ -40,6 +45,7 @@
       "startDate": "2018-09-10",
       "summary": "",
       "highlights": [
+        "Acted as the teaching assistant of the course \"Introduction of Computer Networks\"",
         "Designed the lab program for students and marked their works"
       ]
     },
@@ -59,7 +65,7 @@
   "volunteer": [
     {
       "organization": "DigitalOcean Hsinchu",
-      "position": "Volunteer",
+      "position": "Community Volunteer",
       "website": "https://www.facebook.com/DigitalOceanHsinchu",
       "startDate": "2018-04-10",
       "summary": "Organized the regular meetups of technical community",
@@ -69,7 +75,7 @@
     },
     {
       "organization": "Hacktoberfest 2018 Events (Taiwan)",
-      "position": "Speaker",
+      "position": "Community Speaker",
       "website": "https://do.co/hacktoberfest18events",
       "startDate": "2018-10-06",
       "endDate": "2018-10-13",
@@ -81,9 +87,9 @@
     },
     {
       "organization": "COSCUP 2018",
-      "position": "Staff",
+      "position": "Conference Staff",
       "website": "https://2018.coscup.org/",
-      "startDate": "2018-08-11",
+      "startDate": "2018-05-01",
       "endDate": "2018-08-12",
       "summary": "Assisted in preparing the field of community sessions \"SDN x Cloud Native\"",
       "highlights": [
@@ -92,7 +98,7 @@
     },
     {
       "organization": "Modern Web 2018",
-      "position": "Speaker",
+      "position": "Conference Speaker",
       "website": "https://modernweb.tw/2018/index.html",
       "startDate": "2018-07-18",
       "endDate": "2018-07-19",
@@ -104,7 +110,7 @@
     },
     {
       "organization": "DigitalOcean Hsinchu Meetup",
-      "position": "Speaker",
+      "position": "Community Speaker",
       "website": "https://www.facebook.com/DigitalOceanHsinchu",
       "startDate": "2018-07-10",
       "endDate": "2018-07-10",
