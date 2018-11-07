@@ -152,7 +152,7 @@
       "title": "Honorable Poster Award",
       "date": "2017-01-16",
       "awarder": "NCKU CSIE Undergraduate Project Exhibition 2017",
-      "summary": "My partner Yun-Zhan Cai (蔡昀展) and I developed a real-time monitor with data visualization in OpenFlow-based Network. We also combined geographical map and topology that make the user catch all the network devices easily."
+      "summary": "My partner Yun-Zhan Cai (蔡昀展) and I developed a real-time monitor with data visualization in OpenFlow-based Network using Ryu. We also combined geographical map and topology that make the user catch all the network devices easily."
     },
     {
       "title": "Excellent Performance Group (績優團隊)",
