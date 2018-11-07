@@ -129,9 +129,8 @@
       "startDate": "2017-08-01",
       "gpa": "",
       "courses": [
-        "CSIE3003 - Algorithms",
-        "CSIE0090 - Competitive Programming",
-        "CSIE1002 - Program Design 2"
+        "",
+        "Course: (IOE5048) Network Security, (IOE5091) Wireless Communication Systems"
       ]
     },
     {
@@ -142,8 +141,8 @@
       "endDate": "2017-06-30",
       "gpa": "",
       "courses": [
-        "IOE5048 - Network Security",
-        "IOE5091 - Wireless Communication Systems"
+        "",
+        "Courses: (CSIE3003) Algorithms, (CSIE0090) Competitive Programming, (CSIE1002) Program Design 2"
       ]
     }
   ],
