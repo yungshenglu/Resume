@@ -128,7 +128,11 @@
       "studyType": "Master",
       "startDate": "2017-08-01",
       "gpa": "",
-      "courses": []
+      "courses": [
+        "CSIE3003 - Algorithms",
+        "CSIE0090 - Competitive Programming",
+        "CSIE1002 - Program Design 2"
+      ]
     },
     {
       "institution": "National Cheng Kung University",
@@ -137,7 +141,10 @@
       "startDate": "2014-09-01",
       "endDate": "2017-06-30",
       "gpa": "",
-      "courses": []
+      "courses": [
+        "IOE5048 - Network Security",
+        "IOE5091 - Wireless Communication Systems"
+      ]
     }
   ],
   "awards": [
@@ -171,6 +178,14 @@
   ],
   "skills": [
     {
+      "name": "Programming",
+      "level": "Advanced",
+      "keywords": [
+        "C/C++",
+        "Python"
+      ]
+    },
+    {
       "name": "Frontend Development",
       "level": "Advanced",
       "keywords": [
@@ -187,8 +202,7 @@
       "level": "Advanced",
       "keywords": [
         "NodeJS",
-        "Python",
-        "C/C++"
+        "MySQL"
       ]
     },
     {
