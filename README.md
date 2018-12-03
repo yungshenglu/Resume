@@ -44,3 +44,8 @@ This repository is my personal resume created by [JSON Resume](https://jsonresum
 ## Contributor
 
 * [David Lu](https://github.com/yungshenglu)
+
+---
+## License
+
+GNU GENERAL PUBLIC LICENSE Version 3
