@@ -64,6 +64,16 @@
   ],
   "volunteer": [
     {
+      "organization": "PyCon TW 2019",
+      "position": "Conference Staff",
+      "website": "https://tw.pycon.org",
+      "startDate": "2019-01-12",
+      "summary": "Assisted in preparing the field of the session",
+      "highlights": [
+        "First time joined PyCon TW!"
+      ]
+    },
+    {
       "organization": "DigitalOcean Hsinchu",
       "position": "Community Volunteer",
       "website": "https://www.facebook.com/DigitalOceanHsinchu",
