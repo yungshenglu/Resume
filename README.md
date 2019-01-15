@@ -9,14 +9,19 @@ This repository is my personal resume created by [JSON Resume](https://jsonresum
 ---
 ## Commands
 
-* Install the [JSON Resume](https://jsonresume.org/getting-started/)
+### Installation
+
+1. Install the [JSON Resume](https://jsonresume.org/getting-started/)
     ```bash
     $ npm install -g resume-cli
     ```
-* Install the theme named [Kendall](http://themes.jsonresume.org/theme/kendall) of the resume
+2. Install the theme named [Kendall](http://themes.jsonresume.org/theme/kendall) of the resume
     ```bash
     $ npm install -g jsonresume-theme-kendall
     ```
+
+### Generation
+
 * Export the resume to HTML file with Kendall's theme
     ```bash
     $ resume export --theme kendall index.html
