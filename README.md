@@ -48,11 +48,11 @@ This repository is my personal resume created by [JSON Resume](https://jsonresum
     ```
 
 ---
-## Contributors
+## Contributor
 
 * [David Lu](https://github.com/yungshenglu)
 
 ---
 ## License
 
-GNU GENERAL PUBLIC LICENSE Version 3
+[GNU GENERAL PUBLIC LICENSE Version 3](LICENSE)
