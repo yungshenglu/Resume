@@ -25,6 +25,15 @@ This repository is my personal resume created by [JSON Resume](https://jsonresum
 * Export the resume to HTML file with Kendall's theme
     ```bash
     $ resume export --theme kendall index.html
+      running validation tests on resume.json ...
+
+    Checking NPM for latest version...
+      ✓ Passed all validation tests.
+    To publish your resume at https://jsonresume.org type the command resume publish
+    Your resume-cli software is up-to-date.
+
+    Done! Find your new .html resume at:
+      <PATH_OF_REPO>/index.html
     ```
 
 ---
