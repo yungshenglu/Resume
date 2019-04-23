@@ -1,7 +1,5 @@
 # David's Personal Resume
 
-![License](https://img.shields.io/badge/Licence-GPL3.0-blue.svg?&longCache=true&style=for-the-badge)
-
 This repository is my personal resume created by [JSON Resume](https://jsonresume.org/getting-started/). If you have any suggestions or questions about this blog, feel free to contact me.
 
 * Please visit https://yungshenglu.github.io/resume/ to view the site.
@@ -57,7 +55,7 @@ This repository is my personal resume created by [JSON Resume](https://jsonresum
     ```
 
 ---
-## Contributor
+## Author
 
 * [David Lu](https://github.com/yungshenglu)
 
